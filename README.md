@@ -1,3 +1,4 @@
+
 # Wuzen Framework - Advanced Mobile Security Research Platform
 
 ![Wuzen Dashboard](images/Dashboard.png)
@@ -29,95 +30,31 @@ This framework is intended solely for:
 - **Vulnerability Assessment** - Comprehensive security testing tools
 - **Data Protection Analysis** - Privacy and security validation
 
-### Research Capabilities
-- Real-time system monitoring
-- Advanced security testing scenarios
-- Educational research environment
-- Professional security assessment tools
-
 ## 🖥️ Web Control Panel Interface
 
 ### Main Dashboard & Authentication
 ![Dashboard](images/Dashboard.png)
-*Comprehensive security research dashboard for authorized testing*
+*Comprehensive security research dashboard*
 
-![Login Page](images/Login-page.png)
-*Secure authentication interface for research environment access*
+![Login Page](images/Login%20page.png)
+*Secure authentication interface*
 
 ### Security Testing Toolkit
 ![Toolkit](images/Toolkit.png)
-![Toolkit 2](images/Toolkit-2.png)
-![Toolkit 3](images/Toolkit-3.png)
-*Comprehensive security testing and research tools*
+![Toolkit 2](images/Toolkit%202.png)
+![Toolkit 3](images/Toolkit%203.png)
+*Comprehensive security testing tools*
 
 ### Remote Access Research
 ![VNC](images/VNC.png)
 ![HVNC](images/HVNC.png)
-*Authorized remote access capabilities for security research*
+*Authorized remote access capabilities*
 
 ### Communication Analysis
 ![Messages](images/Messages.png)
 ![Notifications](images/Notifications.png)
-![Forward Calls](images/Forward-calls.png)
-*Communication security testing and analysis modules*
+![Forward Calls](images/Forward%20calls.png)
+*Communication security testing*
 
 ### Security Testing Modules
 ![Injections](images/Injections.png)
-![Injections 2](images/Injections-2.png)
-![Injections 3](images/Injections-3.png)
-![Phislets](images/Phislets.png)
-*Advanced security testing and vulnerability assessment tools*
-
-### System Research Tools
-![App Firewall](images/App-firewall.png)
-![Settings](images/Settings.png)
-![Steal Identity](images/Steal-Indentity.png)
-![Launch Intents](images/Launch-Intents.png)
-![Launch Intents 2](images/Launch-Intents-2.png)
-*System security research and analysis capabilities*
-
-## 📱 Telegram Research Interface
-
-### Mobile Control Panel
-![Wuzen Panel 1](images/Wuzen%20panel%201.jpg)
-*Mobile research interface for field security testing*
-
-![Wuzen Panel 2](images/Wuzen%20panel%202.jpg)
-*Remote security research management*
-
-![Wuzen Panel 3](images/Wuzen%20panel%203.jpg)
-*Real-time monitoring and analysis*
-
-![Wuzen Panel 4](images/Wuzen%20panel%204.jpg)
-*Communication security research tools*
-
-![Wuzen Panel 5](images/Wuzen%20panel%205.jpg)
-*Advanced research capabilities*
-
-![Wuzen Panel 6](images/Wuzen%20panel%206.jpg)
-*Mobile remote research access*
-
-## 🚀 Getting Started
-
-### Prerequisites
-- Android device for security testing
-- Proper legal authorization
-- Research environment setup
-- Understanding of mobile security principles
-
-### Research Setup
-1. **Legal Compliance** - Ensure proper authorization
-2. **Environment Preparation** - Set up testing environment
-3. **Framework Deployment** - Follow security research protocols
-4. **Testing Execution** - Conduct authorized security assessments
-
-### Basic Configuration
-```yaml
-research_framework:
-  version: "2025.1.0"
-  authorized_use: true
-  testing_scope: "defined_research_environment"
-  modules:
-    security_testing: enabled
-    communication_analysis: enabled
-    system_monitoring: enabled
