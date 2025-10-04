@@ -1,6 +1,6 @@
 # Wuzen Framework - Advanced Mobile Security Research Platform
 
-![Wuzen Dashboard](./images/dashboard.png)
+![Wuzen Dashboard](images/Dashboard.png)
 
 > **Open-Source Mobile Security Testing Framework for Authorized Research and Educational Purposes**
 
@@ -38,63 +38,63 @@ This framework is intended solely for:
 ## 🖥️ Web Control Panel Interface
 
 ### Main Dashboard & Authentication
-![Dashboard](./images/dashboard.png)
+![Dashboard](images/Dashboard.png)
 *Comprehensive security research dashboard for authorized testing*
 
-![Login Page](./images/login-page.png)
+![Login Page](images/Login-page.png)
 *Secure authentication interface for research environment access*
 
 ### Security Testing Toolkit
-![Toolkit](./images/toolkit.png)
-![Toolkit 2](./images/toolkit-2.png)
-![Toolkit 3](./images/toolkit-3.png)
+![Toolkit](images/Toolkit.png)
+![Toolkit 2](images/Toolkit-2.png)
+![Toolkit 3](images/Toolkit-3.png)
 *Comprehensive security testing and research tools*
 
 ### Remote Access Research
-![VNC](./images/vnc.png)
-![HVNC](./images/hvnc.png)
+![VNC](images/VNC.png)
+![HVNC](images/HVNC.png)
 *Authorized remote access capabilities for security research*
 
 ### Communication Analysis
-![Messages](./images/messages.png)
-![Notifications](./images/notifications.png)
-![Forward Calls](./images/forward-calls.png)
+![Messages](images/Messages.png)
+![Notifications](images/Notifications.png)
+![Forward Calls](images/Forward-calls.png)
 *Communication security testing and analysis modules*
 
 ### Security Testing Modules
-![Injections](./images/injections.png)
-![Injections 2](./images/injections-2.png)
-![Injections 3](./images/injections-3.png)
-![Phislets](./images/phislets.png)
+![Injections](images/Injections.png)
+![Injections 2](images/Injections-2.png)
+![Injections 3](images/Injections-3.png)
+![Phislets](images/Phislets.png)
 *Advanced security testing and vulnerability assessment tools*
 
 ### System Research Tools
-![App Firewall](./images/app-firewall.png)
-![Settings](./images/settings.png)
-![Steal Identity](./images/steal-identity.png)
-![Launch Intents](./images/launch-intents.png)
-![Launch Intents 2](./images/launch-intents-2.png)
+![App Firewall](images/App-firewall.png)
+![Settings](images/Settings.png)
+![Steal Identity](images/Steal-Indentity.png)
+![Launch Intents](images/Launch-Intents.png)
+![Launch Intents 2](images/Launch-Intents-2.png)
 *System security research and analysis capabilities*
 
 ## 📱 Telegram Research Interface
 
 ### Mobile Control Panel
-![Wuzen Panel 1](./images/wuzen-panel-1.jpg)
+![Wuzen Panel 1](images/Wuzen%20panel%201.jpg)
 *Mobile research interface for field security testing*
 
-![Wuzen Panel 2](./images/wuzen-panel-2.jpg)
+![Wuzen Panel 2](images/Wuzen%20panel%202.jpg)
 *Remote security research management*
 
-![Wuzen Panel 3](./images/wuzen-panel-3.jpg)
+![Wuzen Panel 3](images/Wuzen%20panel%203.jpg)
 *Real-time monitoring and analysis*
 
-![Wuzen Panel 4](./images/wuzen-panel-4.jpg)
+![Wuzen Panel 4](images/Wuzen%20panel%204.jpg)
 *Communication security research tools*
 
-![Wuzen Panel 5](./images/wuzen-panel-5.jpg)
+![Wuzen Panel 5](images/Wuzen%20panel%205.jpg)
 *Advanced research capabilities*
 
-![Wuzen Panel 6](./images/wuzen-panel-6.jpg)
+![Wuzen Panel 6](images/Wuzen%20panel%206.jpg)
 *Mobile remote research access*
 
 ## 🚀 Getting Started
