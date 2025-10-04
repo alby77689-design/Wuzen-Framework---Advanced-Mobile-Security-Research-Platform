@@ -1,7 +1,4 @@
-
 # Wuzen Framework - Advanced Mobile Security Research Platform
-
-![Wuzen Dashboard](images/Dashboard.png)
 
 > **Open-Source Mobile Security Testing Framework for Authorized Research and Educational Purposes**
 
@@ -30,31 +27,106 @@ This framework is intended solely for:
 - **Vulnerability Assessment** - Comprehensive security testing tools
 - **Data Protection Analysis** - Privacy and security validation
 
-## 🖥️ Web Control Panel Interface
+### Research Capabilities
+- Real-time system monitoring
+- Advanced security testing scenarios
+- Educational research environment
+- Professional security assessment tools
 
-### Main Dashboard & Authentication
-![Dashboard](images/Dashboard.png)
-*Comprehensive security research dashboard*
+## 🌐 Web Panel (PC View)
+<details open>
+  <summary>📂 Click to expand Web Panel screenshots</summary>
+  <br>
 
-![Login Page](images/Login%20page.png)
-*Secure authentication interface*
+  <p align="center">
+    <a href="assets/wupics/pcview/Dashboard.png"><img src="assets/wupics/pcview/Dashboard.png" width="45%"></a>
+    <a href="assets/wupics/pcview/Settings.png"><img src="assets/wupics/pcview/Settings.png" width="45%"></a>
+  </p>
 
-### Security Testing Toolkit
-![Toolkit](images/Toolkit.png)
-![Toolkit 2](images/Toolkit%202.png)
-![Toolkit 3](images/Toolkit%203.png)
-*Comprehensive security testing tools*
+  <p align="center">
+    <a href="assets/wupics/pcview/App firewall.png"><img src="assets/wupics/pcview/App firewall.png" width="45%"></a>
+    <a href="assets/wupics/pcview/Forward calls.png"><img src="assets/wupics/pcview/Forward calls.png" width="45%"></a>
+  </p>
 
-### Remote Access Research
-![VNC](images/VNC.png)
-![HVNC](images/HVNC.png)
-*Authorized remote access capabilities*
+  <p align="center">
+    <a href="assets/wupics/pcview/HVNC.png"><img src="assets/wupics/pcview/HVNC.png" width="45%"></a>
+    <a href="assets/wupics/pcview/VNC.png"><img src="assets/wupics/pcview/VNC.png" width="45%"></a>
+  </p>
 
-### Communication Analysis
-![Messages](images/Messages.png)
-![Notifications](images/Notifications.png)
-![Forward Calls](images/Forward%20calls.png)
-*Communication security testing*
+  <p align="center">
+    <a href="assets/wupics/pcview/Injections.png"><img src="assets/wupics/pcview/Injections.png" width="30%"></a>
+    <a href="assets/wupics/pcview/Injections 2.png"><img src="assets/wupics/pcview/Injections 2.png" width="30%"></a>
+    <a href="assets/wupics/pcview/Injections 3.png"><img src="assets/wupics/pcview/Injections 3.png" width="30%"></a>
+  </p>
 
-### Security Testing Modules
-![Injections](images/Injections.png)
+  <p align="center">
+    <a href="assets/wupics/pcview/Launch Intents.png"><img src="assets/wupics/pcview/Launch Intents.png" width="45%"></a>
+    <a href="assets/wupics/pcview/Launch Intents 2.png"><img src="assets/wupics/pcview/Launch Intents 2.png" width="45%"></a>
+  </p>
+
+  <p align="center">
+    <a href="assets/wupics/pcview/Login page.png"><img src="assets/wupics/pcview/Login page.png" width="45%"></a>
+    <a href="assets/wupics/pcview/Messages.png"><img src="assets/wupics/pcview/Messages.png" width="45%"></a>
+  </p>
+
+  <p align="center">
+    <a href="assets/wupics/pcview/Notifications.png"><img src="assets/wupics/pcview/Notifications.png" width="45%"></a>
+    <a href="assets/wupics/pcview/Phislets.png"><img src="assets/wupics/pcview/Phislets.png" width="45%"></a>
+  </p>
+
+  <p align="center">
+    <a href="assets/wupics/pcview/Steal Indentity.png"><img src="assets/wupics/pcview/Steal Indentity.png" width="45%"></a>
+    <a href="assets/wupics/pcview/Toolkit.png"><img src="assets/wupics/pcview/Toolkit.png" width="45%"></a>
+  </p>
+
+  <p align="center">
+    <a href="assets/wupics/pcview/Toolkit 2.png"><img src="assets/wupics/pcview/Toolkit 2.png" width="45%"></a>
+    <a href="assets/wupics/pcview/Toolkit 3.png"><img src="assets/wupics/pcview/Toolkit 3.png" width="45%"></a>
+  </p>
+</details>
+
+---
+
+## 📱 Telegram Panel (Tele View)
+<details open>
+  <summary>📂 Click to expand Telegram Panel screenshots</summary>
+  <br>
+
+  <p align="center">
+    <a href="assets/wupics/Tele view/Wuzen panel 1.jpg"><img src="assets/wupics/Tele view/Wuzen panel 1.jpg" width="30%"></a>
+    <a href="assets/wupics/Tele view/Wuzen panel 2.jpg"><img src="assets/wupics/Tele view/Wuzen panel 2.jpg" width="30%"></a>
+    <a href="assets/wupics/Tele view/Wuzen Panel 3.jpg"><img src="assets/wupics/Tele view/Wuzen Panel 3.jpg" width="30%"></a>
+  </p>
+
+  <p align="center">
+    <a href="assets/wupics/Tele view/Wuzen panel 4.jpg"><img src="assets/wupics/Tele view/Wuzen panel 4.jpg" width="30%"></a>
+    <a href="assets/wupics/Tele view/Wuzen panel 5.jpg"><img src="assets/wupics/Tele view/Wuzen panel 5.jpg" width="30%"></a>
+    <a href="assets/wupics/Tele view/Wuzen panel 6.jpg"><img src="assets/wupics/Tele view/Wuzen panel 6.jpg" width="30%"></a>
+  </p>
+</details>
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Android device for security testing
+- Proper legal authorization
+- Research environment setup
+- Understanding of mobile security principles
+
+### Research Setup
+1. **Legal Compliance** - Ensure proper authorization
+2. **Environment Preparation** - Set up testing environment
+3. **Framework Deployment** - Follow security research protocols
+4. **Testing Execution** - Conduct authorized security assessments
+
+### Basic Configuration
+```yaml
+research_framework:
+  version: "2025.1.0"
+  authorized_use: true
+  testing_scope: "defined_research_environment"
+  modules:
+    security_testing: enabled
+    communication_analysis: enabled
+    system_monitoring: enabled
